@@ -1,0 +1,33 @@
+body{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(24, 24, 110);
+}
+h1{
+    color:rgb(253, 227, 227);
+    text-align: center;
+    font-size: 60px;
+}
+.img1{
+    width: 480px;
+    float:left;
+    box-shadow: 10px 10px 10px;
+}
+.img2{
+    width: 480px;
+    margin-left: 25px;
+    box-shadow: 10px 10px 10px;
+}
+.img3{
+    width:480px;
+    height: 300px;
+    float: right;
+    box-shadow: 10px 10px 10px;
+}
+p{
+    padding-top: 20px;
+    color:rgb(250, 231, 231);
+    font-size: 20px;
+    text-align: center;
+}

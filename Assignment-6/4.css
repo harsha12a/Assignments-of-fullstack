@@ -1,0 +1,38 @@
+body{
+    background-image: url('https://media.istockphoto.com/id/604337712/photo/double-lightening-hitting-the-rio-plata-in-black-and-white.jpg?s=612x612&w=0&k=20&c=zXZWRKFco62NdbXs6cpFC6hbBaWyqfdvhZGjghXFReQ=');
+    background-size: cover;
+    padding-top: 50px;
+}
+a{
+    font-size: 30px;
+    color:rgb(246, 231, 231);
+    text-decoration: none;
+    text-align: center;
+    padding:10px 20px;
+    background-color: #f9082c;
+    border: 2px solid rgb(255, 0, 85);
+}
+.lin1{
+    margin-left: 550px;
+}
+.lin2{
+    margin-left: 40px;
+}
+p{
+    text-transform: capitalize;
+    color:rgb(235, 244, 247);
+    background-color: #f9082c;
+    font-size: 25px;
+    margin:0px 440px;
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    color:rgb(6, 16, 25);
+    text-transform: uppercase;
+    background-color: rgb(255, 25, 0);
+    margin-left:650px;
+    margin-right:610px;
+    margin-bottom: 100px;
+}

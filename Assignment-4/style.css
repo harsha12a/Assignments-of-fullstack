@@ -1,0 +1,39 @@
+body{
+    margin-left: 40px;
+    margin-top: 40px;
+    background-color: rgba(66, 226, 17, 0.267);
+}
+img{
+    width: 200px;
+    float:left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-shadow: 20px 20px 20px rgb(12, 49, 233);
+}
+.app{
+    display: right;
+    margin-left: 250px;
+    margin-top: 40px;
+    margin-bottom: 200px;
+    font-size: 20px;
+}
+span{
+    color:#ee0909;
+}
+h1,h2{
+    display:block;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: 2px 2px 20px #ee0909;
+}
+li{
+    font-size: 17px;
+}
+hr{
+    margin-left: 10px;
+}
+.anta-regular,h1,h2 {
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
