@@ -3,38 +3,40 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 5vh;
+    margin: 0;
 }
 a{
-    font-size: 30px;
-    color:rgb(246, 231, 231);
+    font-size: 4vw;
+    color: rgb(246, 231, 231);
     text-decoration: none;
     text-align: center;
-    padding:1vh 2vw;
+    padding: 1vh 2vw;
     background-color: #f9082c;
-    border: 2px solid rgb(255, 0, 85);
+    border: 0.5vw solid rgb(255, 0, 85);
+    display: inline-block;
+    margin-bottom: 2vh;
 }
 .lin1{
-    margin-left: 34vw;
+    margin-left: 20%;
+    text-align: center;
 }
 .lin2{
-    margin-left: 4vw;
+    margin-left: 2vw;
+    text-align: center;
 }
 p{
     text-transform: capitalize;
     text-align: center;
-    color:rgb(235, 244, 247);
+    color: rgb(235, 244, 247);
     background-color: #f9082c;
-    font-size: 20px;
-    margin-left:30vw;
-    margin-right: 30vw;
-    margin-bottom: 10vh;
+    font-size: 2.5vw;
+    margin: 10vh 5vw;
 }
 h1{
-    font-size: 100px;
+    font-size: 7vw;
     text-align: center;
-    color:rgb(6, 16, 25);
+    color: rgb(6, 16, 25);
     text-transform: uppercase;
     background-color: rgb(255, 25, 0);
-    margin-left:30vw;
-    margin-right:26vw;
+    margin: 5vh 5vw;
 }
