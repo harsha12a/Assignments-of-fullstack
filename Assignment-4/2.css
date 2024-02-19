@@ -1,35 +1,37 @@
 *{
-    padding-left: 2px;
-    padding-right: 2px;
+    padding-left: .2vw;
+    padding-right: .2vh;
 }
 .img1{
     width:500px;
     float:left;
-    margin-left: 20px;
-    margin-top: 10px;
-    margin-right: 30px;
+    margin-left: 2vw;
+    margin-top: 1vh;
+    margin-right: 3vw;
 }
 .img2{
     width:500px;
     float:right;
-    margin-right: 20px;
+    margin-right: 2vw;
 }
 .desc{
-    padding-top: 15px;
-    padding-left: 550px;
+    padding-top: 1.5vw;
+    padding-left: 5vw;
     font-size: 20px;
 }
 .desc1{
     padding:auto;
     font-size: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 2vh;
+    padding-left: 4vw;
     margin:auto;
 }
 .desc2{
     padding:auto;
     padding-top:0px;
     margin-top: 0px;
-    padding-right: 5px;
+    padding-right: .5vw;
+    padding-left: 4vw;
     font-size: 20px;
 }
 span{
