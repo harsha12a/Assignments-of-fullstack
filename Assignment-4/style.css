@@ -1,19 +1,19 @@
 body{
-    margin-left: 40px;
-    margin-top: 40px;
+    margin-left: 4vw;
+    margin-top: 4vh;
     background-color: rgba(66, 226, 17, 0.267);
 }
 img{
     width: 200px;
     float:left;
-    margin-right: 20px;
-    margin-bottom: 20px;
+    margin-right: 2vw;
+    margin-bottom: 2vh;
     box-shadow: 20px 20px 20px rgb(12, 49, 233);
 }
 .app{
     display: right;
-    margin-left: 250px;
-    margin-top: 40px;
+    margin-left: 3vw;
+    margin-top: 4vh;
     margin-bottom: 200px;
     font-size: 20px;
 }
@@ -26,10 +26,10 @@ h1,h2{
     box-shadow: 2px 2px 20px #ee0909;
 }
 li{
-    font-size: 17px;
+    font-size: 20px;
 }
 hr{
-    margin-left: 10px;
+    margin-left: 1vw;
 }
 .anta-regular,h1,h2 {
     font-family: "Anta", sans-serif;
