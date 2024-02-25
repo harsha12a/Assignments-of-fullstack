@@ -1,7 +1,11 @@
-body{
+body {
     background-image: url('https://media.istockphoto.com/id/604337712/photo/double-lightening-hitting-the-rio-plata-in-black-and-white.jpg?s=612x612&w=0&k=20&c=zXZWRKFco62NdbXs6cpFC6hbBaWyqfdvhZGjghXFReQ=');
     background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
+    width: auto;
+    height: 100vh;
+    background-attachment: fixed;
     padding-top: 5vh;
     margin: 0;
 }
