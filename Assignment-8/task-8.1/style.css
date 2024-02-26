@@ -18,6 +18,7 @@
     text-align: center;
     margin-left: 20px;
     border-radius:50% 50% 3000% 3000%;
+    margin-bottom: 30px;
 }
 .img1,.img2{
     width:100%;
@@ -26,7 +27,7 @@
 .desc1{
     margin-bottom: 10%;
 }
-a{
+.link{
     padding: 4% 20%;
     background-color: grey;
     text-decoration: none;
@@ -38,4 +39,8 @@ a{
     flex-wrap: wrap;
     margin:0;
     margin-bottom: 30px;
+}
+.foot{
+    padding-left: 50%;
+    text-align: center;
 }
