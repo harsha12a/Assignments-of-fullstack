@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.head{
+    height: 100px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(251, 246, 246);
+    font-size: 20px;
+    font-weight: bold;
+    padding:0 25vw;
+}
+body{
+    background-image: url('https://images6.alphacoders.com/113/1134849.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height:100vh;
+    width:auto;
+}
+.main{
+    margin-top: 150px;
+    margin-left: 60px;
+    margin-right: 60px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.box1{
+    max-width:300px;
+    height:400px;
+    box-shadow: 2px 2px 20px black;
+    background-color: white;
+    border-radius: 2%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+}
+img{
+    margin-top: 15%;
+    width:50%;
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+}
+.p{
+    margin-top: 10%;
+    text-align: center;
+    padding:2px 10px;
+    border-radius: 30px;
+    color: #fcfbfb;
+    background-color: rgb(42, 92, 92);
+}
+p{
+    text-align: center;
+    margin: 40px 30px;
+}
