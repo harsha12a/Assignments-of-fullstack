@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(157, 220, 118);
+    background-color: rgb(98, 219, 22);
 }
 .main{
     margin: 10% 20vw;
@@ -20,7 +20,7 @@ body{
     width:250px;
     height:400px;
     border-radius: 5%;
-    background-color: rgb(237, 183, 229);
+    background-color: rgb(97, 156, 175);
     box-shadow: 2px 2px 20px;
     margin-bottom: 20px;
 }
@@ -54,7 +54,7 @@ footer{
 h3{
     margin: 20px 0;
     margin-bottom: 0px;
-    color: rgb(83, 89, 8);
+    color: rgb(248, 57, 9);
     font-weight: bold;
 }
 .ok{
