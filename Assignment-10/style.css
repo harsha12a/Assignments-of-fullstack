@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+a{
+    color: #000000;
+    text-decoration: none;
+    padding: 10px 50px;
+    border:2px solid rgb(0, 0, 0);
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    text-align: center;
+}
