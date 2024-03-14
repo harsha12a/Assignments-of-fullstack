@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(to right,rgb(88, 0, 88),rgb(237, 124, 237));
+}
+.main{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-rows: repeat(3,1fr);
+    height: 900px;
+    margin: 20px;
+    gap: 20px;
+}
+.ch1,.ch2,.ch3,.ch4,.ch5,.ch6{
+    display:flex;
+    font-size: 0.1px;
+    justify-content: center;
+}
+.ch1{
+    background-color: rgb(57, 124, 57);
+    color: rgb(57, 124, 57);
+    grid-column: 1/3;
+    grid-row: 1/3;
+    border-radius: 30px;
+}
+.ch2{
+    background-color: rgb(70, 70, 122);
+    color: rgb(70, 70, 122);
+    grid-row: 1/2;
+    grid-column: 3/6;
+    border-radius: 30px;
+}
+.ch3{
+    background-color: rgb(145, 95, 145);
+    color: rgb(145, 95, 145);
+    grid-column: 3/4;
+    grid-column: 1/3;
+    border-radius: 30px;
+}
+.ch4{
+    background-color: rgb(161, 69, 69);
+    color: rgb(161, 69, 69);
+    grid-column: 3/5;
+    grid-row: 2/4;
+    border-radius: 30px;
+}
+.ch5{
+    background-color: green;
+    color: green;
+    grid-column: 5/6;
+    grid-row: 2/3;
+    border-radius: 30px;
+}
+.ch6{
+    background-color: rgb(85, 77, 9);
+    color: rgb(85, 77, 9);
+    grid-column: 5/6;
+    grid-row: 3/4;
+    border-radius: 30px;
+}
+@media screen and (max-width:568px) {
+    .main{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .ch1,.ch2,.ch3,.ch4,.ch5,.ch6{
+        height:80px;
+    }
+}
