@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+body{
+    padding-top: 30px;
+    background-color: rgb(23, 23, 82);
+    color:rgb(9, 246, 242);
+    font-size: 40px;
+}
+li{
+    list-style-position: inside;
+    padding-top: 20px;
+    padding-left: 40vw;
+}
+a{
+    color:rgb(251, 251, 249);
+    text-decoration: none;
+}

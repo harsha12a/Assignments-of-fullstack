@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url('https://i.kym-cdn.com/photos/images/newsfeed/001/921/437/29d.jpg');
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-size: 100% 100%;
+    background-position: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.abc{
+    margin-left: 25vw;
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    text-shadow: 2px 2px 4px #ffffff;
+}
+.def{
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    text-shadow: 2px 2px 4px #ffffff;
+}

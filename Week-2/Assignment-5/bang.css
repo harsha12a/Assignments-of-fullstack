@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(25, 25, 102);
+    margin-top: 3vh;
+    margin-left: 2vw;
+    margin-right: 3vw;
+}
+.img1{
+    width: 30vw;
+    float:left;
+    box-shadow: 10px 10px 10px;
+}
+.img2{
+    width: 30vw;
+    margin-left: 2vw;
+    box-shadow: 10px 10px 10px;
+}
+.img3{
+    width: 30vw;
+    float: right;
+    box-shadow: 10px 10px 10px;
+}
+h1{
+    color: rgb(243, 246, 248);
+    text-align: center;
+    font-size: 60px;
+}
+p{
+    padding-top: 3vh;
+    font-size: 20px;
+    color: rgb(206, 214, 220);
+    text-align: center;
+}

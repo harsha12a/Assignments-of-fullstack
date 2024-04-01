@@ -1,0 +1,90 @@
+*{
+    background-color: rgb(220, 7, 7);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.head{
+    background-color: #fff;
+    color: red;
+    font-size: 3vw;
+    padding:10px 8vw;
+    margin-bottom:80px;
+}
+.he{
+    color:#fff;
+    font-size: 5vw;
+    margin: 30px 8vw;
+}
+.desc{
+    color: #fff;
+    font-size: 2vw;
+    font-weight: 200;
+    margin-left: 8vw;
+}
+.first{
+    padding-bottom: 100px;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.con{
+    background-color: rgb(91, 14, 14);
+    color: #fff;
+    padding-left: 40px;
+    padding-top: 80px;
+}
+.con1{
+    background-color: rgb(91, 14, 14);
+    color: #e99b9b;
+    padding-left: 40px;
+    padding-top: 50px;
+    padding-right: 90px;
+}
+.box{
+    width: 480px;
+    height: 370px;
+    margin-bottom: 40px;
+    background-color: rgb(91, 14, 14);
+    display: flex;
+    flex-direction: column;
+}
+.logo{
+    width: 16vw;
+    border-radius: 50%;
+    position: absolute;
+    right: 14vw;
+    top: 150px;
+}
+@media screen and (max-width:576px) {
+    .head{
+        font-size: 2rem;
+    }
+    .he{
+        font-size: 2.4rem;
+    }
+    .desc{
+        font-size: 1.2rem;
+    }
+    .logo{
+        position: static;
+        margin: 50px 30vw;
+        width: 9rem;
+    }
+    .box{
+        margin: auto;
+        margin-bottom: 40px;
+    }
+}
+@media screen and (min-width:577px) and (max-width:992px) {
+    .box{
+        margin:auto;
+        margin-bottom: 40px;
+    }
+}
