@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 .bg-primary-subtle{
     border: 1px solid black;
