@@ -1,1 +1,1 @@
-I am learning mern-stack and the assignment solutions of the course are there in this repository.
+This repository contains all the mern stack assignments I have done which helps any individual to master mern stack from scratch.
