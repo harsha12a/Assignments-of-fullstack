@@ -1,0 +1,1 @@
+[Link to JS Assignment-1 Question](https://rajeshmeanstack.blogspot.com/2022/10/js-assignment-1.html)
