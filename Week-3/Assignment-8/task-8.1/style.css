@@ -44,3 +44,9 @@
     padding-left: 50%;
     text-align: center;
 }
+.img1:hover{
+    transform: scale(1.1);
+}
+.img2:hover{
+    transform: scale(1.1);
+}

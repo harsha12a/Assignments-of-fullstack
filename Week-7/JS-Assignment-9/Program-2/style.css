@@ -90,3 +90,6 @@ input.col{
     margin-top: 5px;
     margin-bottom: 5px;
 }
+.main:hover{
+    transform: scale(1.1);
+}
