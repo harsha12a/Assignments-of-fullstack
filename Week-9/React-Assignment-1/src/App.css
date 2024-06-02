@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(to left,grey,black);
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#head{
+    text-align: center;
+    font-size: 70px;
+    color:white;
+}
