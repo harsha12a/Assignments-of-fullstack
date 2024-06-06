@@ -15,13 +15,8 @@
     width: 100px;
     margin-left: 20px;
 }
-.rgb{
-    position: absolute;
-    right:20px;
-}
 .rg{
-    position: absolute;
-    right:90px;
+    margin-left: auto;
 }
 .ab{
     border: 0px;
@@ -37,6 +32,9 @@ a{
     background-color: rgb(204, 203, 203);
     padding-bottom: 80px;
     margin-bottom: 50px;
+}
+.rgb{
+    margin-right: 30px;
 }
 .cap,.ca{
     font-size: 7vw;
