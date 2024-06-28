@@ -1,1 +1,2 @@
-[Link to Assignment-9 Question](https://rajeshmeanstack.blogspot.com/2021/11/assignment-9.html)
+[Link to Assignment-9.1 Output](https://harsha12a.github.io/Assignments-of-fullstack/Week-3/Assignment-9/task-9.1/)
+[Link to Assignment-9.2 Output](https://harsha12a.github.io/Assignments-of-fullstack/Week-3/Assignment-9/task-9.2/)

@@ -1,1 +1,1 @@
-[Link to Assignment-6 Question](https://rajeshmeanstack.blogspot.com/2021/10/assignment-6.html)
+[Link to Assignment-6 Output](https://harsha12a.github.io/Assignments-of-fullstack/Week-2/Assignment-6/4.html)

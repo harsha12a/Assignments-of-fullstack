@@ -1,1 +1,1 @@
-[Link to Bootstrap Assignment-2 Question](https://rajeshmeanstack.blogspot.com/2022/08/bootstrap-assignment-2.html)
+[Link to Bootstrap Assignment-2 Output](https://harsha12a.github.io/Assignments-of-fullstack/Week-5/Assignment-2/)
