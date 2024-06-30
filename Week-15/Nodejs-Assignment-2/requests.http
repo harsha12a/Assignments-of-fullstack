@@ -1,0 +1,23 @@
+get http://localhost:3500/product/
+###
+get http://localhost:3500/product/9
+###
+post http://localhost:3500/product
+Content-Type: application/json
+
+{
+    "id":9,
+    "name":"TV",
+    "price":40000
+}
+###
+put http://localhost:3500/product
+Content-Type: application/json
+
+{
+    "id":2,
+    "name":"Smart Phone",
+    "price":20000
+}
+###
+delete http://localhost:3500/product/9
