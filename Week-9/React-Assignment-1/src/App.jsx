@@ -275,7 +275,7 @@ function App() {
       <h1 id="head">Products</h1>
       <div className="container">
         {arr.map((i) => (
-          <Product x={i} />
+          <Product x={i} key={i.id}/>
         ))}
       </div>
     </div>
