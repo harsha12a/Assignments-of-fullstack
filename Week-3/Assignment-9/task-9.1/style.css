@@ -37,6 +37,7 @@ button{
     padding:5px 20px;
     border-radius: 10%;
     color: white;
+    cursor: pointer;
 }
 footer{
     background-color: rgb(169, 3, 252);
