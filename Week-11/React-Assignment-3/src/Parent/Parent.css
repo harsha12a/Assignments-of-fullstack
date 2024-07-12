@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+  }
+  .cont {
+    margin-top: 50px;
+    text-align: center;
+  }
+  .box {
+    border: 2px solid black;
+    width: 250px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    padding: 30px 20px;
+    background: linear-gradient(to bottom, white, pink);
+  }
+  

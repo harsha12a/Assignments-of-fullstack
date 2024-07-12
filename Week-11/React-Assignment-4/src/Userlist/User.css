@@ -1,0 +1,25 @@
+.box {
+    border: 2px solid black;
+    width: 250px;
+    text-align: center;
+    margin: 10px 5px;
+    padding: 20px;
+    min-height: 320px;
+    background-color: black;
+    color: white;
+    transition: all 0.2s;
+  }
+  .box1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  h3 {
+    text-align: center;
+    color: white;
+  }
+  .box:hover {
+    transform: scale(0.9);
+  }
+  
