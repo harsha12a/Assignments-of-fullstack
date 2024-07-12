@@ -1,0 +1,11 @@
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #f8f8f8;
+    box-shadow: 0px 2px 40px;
+    flex-wrap: wrap;
+  }
+  body {
+    background-color: gray;
+  }
+  
