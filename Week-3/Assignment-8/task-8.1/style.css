@@ -21,6 +21,18 @@
     margin-bottom: 30px;
     overflow: hidden;
 }
+.box1,.box2{
+    animation: pop both;
+    animation-timeline: view(40% 30%);
+}
+@keyframes pop{
+    0%{
+        transform:translateY(200px) scale(0.5);
+    }
+    100%{
+        transform: translateY(0px) scale(1);
+    }
+}
 .img1,.img2{
     width:100%;
     padding: 0;
