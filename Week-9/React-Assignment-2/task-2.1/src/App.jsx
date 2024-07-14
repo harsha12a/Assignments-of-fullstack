@@ -9,56 +9,56 @@ function App() {
       name: "John",
       age: 21,
       image:
-        "https://i.insider.com/565b1cf6dd08955b3f8b4594?width=960&format=jpeg",
+        "https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
     {
       id: 1,
       name: "John",
       age: 21,
       image:
-        "https://i.insider.com/565b1cf6dd08955b3f8b4594?width=960&format=jpeg",
+        "https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
     {
       id: 1,
       name: "John",
       age: 21,
       image:
-        "https://i.insider.com/565b1cf6dd08955b3f8b4594?width=960&format=jpeg",
+        "https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
     {
       id: 1,
       name: "John",
       age: 21,
       image:
-        "https://i.insider.com/565b1cf6dd08955b3f8b4594?width=960&format=jpeg",
+        "https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
     {
       id: 1,
       name: "John",
       age: 21,
       image:
-        "https://i.insider.com/565b1cf6dd08955b3f8b4594?width=960&format=jpeg",
+        "https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
     {
       id: 1,
       name: "John",
       age: 21,
       image:
-        "https://i.insider.com/565b1cf6dd08955b3f8b4594?width=960&format=jpeg",
+        "https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
     {
       id: 1,
       name: "John",
       age: 21,
       image:
-        "https://i.insider.com/565b1cf6dd08955b3f8b4594?width=960&format=jpeg",
+        "https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
     {
       id: 1,
       name: "John",
       age: 21,
       image:
-        "https://i.insider.com/565b1cf6dd08955b3f8b4594?width=960&format=jpeg",
+        "https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
   ];
   return (
