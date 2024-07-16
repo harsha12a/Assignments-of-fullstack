@@ -22,14 +22,13 @@
   }
   .logo > a > img {
     margin: 10px;
-    transition: transform 0.1s;
+    transition: all 0.1s;
   }
   a > img:hover {
     transform: scale(1.2);
   }
-  a > img:not(:hover) {
+  .logo:hover a > img:not(:hover) {
     opacity: 0.5;
-    scale: 0.8;
     filter: blur(1px);
   }
   
