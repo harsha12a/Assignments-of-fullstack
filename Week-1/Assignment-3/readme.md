@@ -1,1 +1,0 @@
-[Link to Assignment-3 Output](https://harsha12a.github.io/Assignments-of-fullstack/Week-1/Assignment-3/1.html)
