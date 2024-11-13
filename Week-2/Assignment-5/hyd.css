@@ -1,30 +1,14 @@
-body{
-    padding:2vh 1vw;
-    background-color: rgb(5, 52, 92);
+.imgs{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
-.img1{
-    width:30vw;
-    box-shadow: 20px 20px 20px;
-}
-.img2{
-    width:30vw;
-    text-align: center;
-    margin-left: 2vw;
-    box-shadow: 20px 20px 20px;
-}
-.img3{
-    width: 30vw;
-    float: right;
-    box-shadow: 20px 20px 20px;
+.imgs > img {
+    margin: 20px;
+    width: 450px;
+    min-width: 300px;
 }
 h1{
     text-align: center;
-    font-size: 50px;
-    color:rgb(224, 223, 223);
-}
-p{
-    padding-top: 6vh;
-    font-size: 20px;
-    text-align: center;
-    color: rgb(244, 234, 234);
+    font-size: 60px;
 }
