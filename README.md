@@ -13,4 +13,4 @@ This repository contains all the mern stack assignments I have done which helps 
 |Week-9|[https://github.com/harsha12a/Assignments-of-fullstack/tree/main/Week-9/](https://github.com/harsha12a/Assignments-of-fullstack/tree/main/Week-9/)|
 |Week-10|[https://github.com/harsha12a/Assignments-of-fullstack/tree/main/Week-10/](https://github.com/harsha12a/Assignments-of-fullstack/tree/main/Week-10/)|
 |Week-11|[https://github.com/harsha12a/Assignments-of-fullstack/tree/main/Week-11/](https://github.com/harsha12a/Assignments-of-fullstack/tree/main/Week-11/)|
-|HandsOn|[https://github.com/harsha12a/Assignments-of-fullstack/tree/main/HandsOn](https://github.com/harsha12a/Assignments-of-fullstack/tree/main/HandsOn)|
+|Hands On Projects|[https://github.com/harsha12a/Assignments-of-fullstack/tree/main/HandsOn](https://github.com/harsha12a/Assignments-of-fullstack/tree/main/HandsOn)|
