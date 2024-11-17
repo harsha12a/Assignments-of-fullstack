@@ -6,3 +6,4 @@
 |Gsap-intro|[https://harsha12a.github.io/Assignments-of-fullstack/HandsOn/GSAP/Introduction/landPage.html](https://harsha12a.github.io/Assignments-of-fullstack/HandsOn/GSAP/Introduction/landPage.html)|
 |Gsap-Scrolltrigger|[https://harsha12a.github.io/Assignments-of-fullstack/HandsOn/GSAP/ScrollTrigger/verticalScroll.html](https://harsha12a.github.io/Assignments-of-fullstack/HandsOn/GSAP/ScrollTrigger/verticalScroll.html)|
 |Gsap-HorizontallScrollTrigger|[https://harsha12a.github.io/Assignments-of-fullstack/HandsOn/GSAP/ScrollTrigger/horizontalScroll.html](https://harsha12a.github.io/Assignments-of-fullstack/HandsOn/GSAP/ScrollTrigger/horizontalScroll.html)|
+|TextAnimation|[https://harsha12a.github.io/Assignments-of-fullstack/HandsOn/textAnimation.html](https://harsha12a.github.io/Assignments-of-fullstack/HandsOn/textAnimation.html)|
