@@ -9,6 +9,9 @@
             padding: 0;
             box-sizing: border-box;
         }
+        body{
+            background-color: #292929;
+        }
         .banner {
             height: 100vh;
             width: 100%;
@@ -42,7 +45,7 @@
             animation: scout 4s ease-in-out 1 forwards;
         }
         @keyframes scout {
-            0% {
+            50% {
                 transform: scale(1);
             }
             100% {
@@ -50,7 +53,7 @@
             }
         }
         @keyframes scales {
-            0% {
+            50% {
                 transform: scale(2);
             }
 
@@ -102,7 +105,15 @@
         </div>
     </div>
     <script>
-        const url = ''
+        const url = 'https://raw.githubusercontent.com/harsha12a/Assignments-of-fullstack/assets/assets/handsOn/ink.gif'
+        const cache = `${url}?t=${new Date().getTime()}`
+        const banner = document.querySelector('.banner')
+        const style = `
+            mask-image: url(${cache});
+            mask-size: cover;
+            mask-position: center;
+        `
+        banner.style.cssText = style
     </script>
 </body>
 </html>
