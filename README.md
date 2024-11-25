@@ -1,4 +1,4 @@
-This repository contains all the mern stack assignments I have done which helps any individual to master mern stack from scratch.
+##This repository contains all the mern stack assignments I have done which helps any individual to master mern stack from scratch.
 
 |Weeks|Link|
 |-----|----|
